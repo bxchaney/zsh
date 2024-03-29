@@ -5,6 +5,7 @@
 - fzf
 - starship.rs
 - zplug
+- batcat
 
 ## Setup
 
